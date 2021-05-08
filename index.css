@@ -1,0 +1,32 @@
+
+    #Div1 {
+border: 5px outset red;
+background-color: lightblue;
+text-align: center;
+}
+#Div2 {
+border: 5px outset green;
+background-color: rgb(182, 186, 189);
+text-align: center;
+}
+#Para1 {
+  font-size:  24px;
+
+}
+#b {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+
+
+    
+
+
+ 
